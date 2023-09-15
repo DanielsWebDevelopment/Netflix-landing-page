@@ -17,7 +17,7 @@
 ###### Responsive Design: The page is designed to be responsive, ensuring that it looks great and functions well on various screen sizes and devices.
 ###### JavaScript Functionality: I used JavaScript to create a dynamic user interface.
 
-### Screenshot of Mock Project
+#### Screenshot of Mock Project
 ![Netflix Landing page _ Danielsprog - Google Chrome 2023-09-15 4_12_09 PM](https://github.com/DanielsWebDevelopment/Netflix-landing-page/assets/129445203/5c2ca56c-a0e8-4e22-a37b-9152bbf25185)
 
 ### Future Improvements
