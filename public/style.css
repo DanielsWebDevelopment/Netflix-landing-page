@@ -370,6 +370,10 @@ li {
   height: 50px;
 }
 
+.subscribe_cta_input input[type="text"]{
+  color: #fff;
+}
+
 .subscribe_cta_input input::placeholder {
   position: relative;
   left: 10px;
