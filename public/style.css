@@ -111,6 +111,10 @@ li {
   border-radius: 5px;
 }
 
+.main-sub-section input[type="text"]{
+  color: #fff;
+}
+
 .main-sub-section input::placeholder {
   position: relative;
   left: 25px;
