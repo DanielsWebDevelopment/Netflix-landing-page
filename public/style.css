@@ -419,6 +419,7 @@ li {
 
 .footer__links li {
   text-decoration: underline;
+  cursor: pointer;
   padding: 10px;
   color: #d1d1d1;
 }
